@@ -5,3 +5,7 @@
 ## Integrante 1: sebastian
 ## Integrante 2: pepito
 ## Integrante 3: pedro
+
+# Problematica
+
+Automatización de sistema para restaurante escolar
